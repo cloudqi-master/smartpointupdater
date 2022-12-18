@@ -1,4 +1,4 @@
 ### CloudQI SmartPoint
-##Updates Repository
+## Updates Repository
 
 Repositório de atualização de firmware CloudQI Devices.
